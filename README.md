@@ -26,7 +26,7 @@
     <td>KMITL <b>(Faculty of IT)</b></tl>
 </table>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SupakornNetsuwan&repo=README.md)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SupakornNetsuwan&repo=loginsystem)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupakornNetsuwan&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupakornNetsuwan)](https://github.com/anuraghazra/github-readme-stats)
