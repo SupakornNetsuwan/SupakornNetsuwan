@@ -1,9 +1,33 @@
-#Welcome you're good looking person!
-- 👋 Hi, I’m @SupakornNetsuwan
-- 💻 Interesting with HTML CSS JAVASCRIPT
-- 😄 Good to see you here!
+# Welcome you're good looking person! 👋
+  Hi, My name is <a href="https://www.facebook.com/supakornnetsuwan">***@SupakornNetsuwan***</a>
+  Good to see you here!
+### Fact Aboutme🙋‍♂️
+- 💻 I am Interesting of <b>HTML CSS JAVASCRIPT</b> and other web development technologies.
+- 🍰 My birthday is **9/12/2002**
+- 🌍 **Earth** is my nickname
+- 🧑‍ I am now **18 years old**
 
-<!---
-SupakornNetsuwan/SupakornNetsuwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Education timeline🎓 
+<table>
+  <tr>
+    <td>Elementary school</td>
+    <td>Pramanda Nijjanukraoh</td>
+  </tr>
+  <tr>
+    <td>High school</td>
+    <td>Triamudomsuksanomklao</td>
+  </tr>
+  <tr>
+    <td>Senior high school</td>
+    <td>Triamudomsuksanomklao <b>(com-sci)</b></td>
+  </tr>
+  <tr>
+    <td>University</td>
+    <td>KMITL <b>(Faculty of IT)</b></tl>
+</table>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asd&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asd)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asd)  
+
+<img src="https://user-images.githubusercontent.com/72784696/128116534-85d682f0-5847-4837-80ce-c7197a1ad5bf.png" width="100" height="100"/>
