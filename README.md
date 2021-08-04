@@ -26,10 +26,10 @@
     <td>KMITL <b>(Faculty of IT)</b></tl>
 </table>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SupakornNetsuwan&repo=loginsystem)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SupakornNetsuwan&repo=movieapp)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupakornNetsuwan&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupakornNetsuwan)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asd)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SupakornNetsuwan)
 
 <img src="https://user-images.githubusercontent.com/72784696/128116534-85d682f0-5847-4837-80ce-c7197a1ad5bf.png" width="100" height="100"/>
