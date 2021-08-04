@@ -26,17 +26,23 @@
     <td>KMITL <b>(Faculty of IT)</b></tl>
 </table>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SupakornNetsuwan&repo=movieapp)](https://github.com/anuraghazra/github-readme-stats)
-
+### Working with🔧
+<div>
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="html" width="80" height="80"/>
+  <img src="https://sittiporn-suks.com/image/css.png" alt="css" width="80" height="80"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" alt="javascript" width="80" height="80"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" width="80" alt="node" height="80"/>
+  <img src="https://user-images.githubusercontent.com/72784696/128116534-85d682f0-5847-4837-80ce-c7197a1ad5bf.png" width="80" height="80"/>
+</div>
 
 <a href="https://github-readme-stats.vercel.app/api?username=SupakornNetsuwan&hide=contribs,prs&show_icons=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SupakornNetsuwan&hide=contribs,prs&show_icons=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SupakornNetsuwan&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupakornNetsuwan&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupakornNetsuwan&layout=compact&langs_count=10" />
 </a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SupakornNetsuwan)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<img src="https://user-images.githubusercontent.com/72784696/128116534-85d682f0-5847-4837-80ce-c7197a1ad5bf.png" width="100" height="100"/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SupakornNetsuwan" alt="wakatime"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SupakornNetsuwan&repo=movieapp" alt="pin"/>
+</div>
