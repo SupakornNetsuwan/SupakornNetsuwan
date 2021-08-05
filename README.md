@@ -47,23 +47,20 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" alt="css" width="65" height="65"/>&nbsp;
 </div>
 
-### <p>Favourite libraries 📚</p>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/chartdotjs.svg" alt="css" width="65" height="65"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/swiper.svg" alt="css" width="65" height="65"/>&nbsp;
-</div>
-
-> Headless UI -> Making modal and form easier!<br/>
-> react-micro-modal -> Making custom popup modal<br/>
-> Popper.js -> Making a cool tooltip!<br/>
-> React Icons -> Looking for icon?
-
-### Seldom usage tool 🔧
+### Seldom usage tool
 <div align="center">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/php.svg" alt="css" width="65" height="65"/>&nbsp;&nbsp;
  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" alt="css" width="65" height="65"/>&nbsp;
 </div>
 <br/>
+
+### <p>Favourite libraries 📚</p>
+> Swiper.js -> Making flexible carousel </br>
+> Chart.js -> Making visualition of data easier <br/>
+> Headless UI -> Making modal and form easier! <br/>
+> react-micro-modal -> Making custom popup modal <br/>
+> Popper.js -> Making a cool tooltip! <br/>
+> React Icons -> Looking for icon?
 
 # Progression 🚀
 <div align="center">
