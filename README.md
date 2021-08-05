@@ -55,20 +55,22 @@
 <br/>
 
 # Progression 🚀
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SupakornNetsuwan&hide=contribs,prs&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupakornNetsuwan&layout=compact&langs_count=10&card_width=445"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SupakornNetsuwan" alt="wakatime"/>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=SupakornNetsuwan" alt="streak"/>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SupakornNetsuwan&hide=contribs,prs&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupakornNetsuwan&layout=compact&langs_count=10&card_width=445"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SupakornNetsuwan" alt="wakatime"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=SupakornNetsuwan" alt="streak"/>
+</div>
 
 ## Connect with me 📬
 <div align="center">
-<a href="https://github.com/SupakornNetsuwan" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/supakornnetsuwan" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/earth.spkn" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+  <a href="https://github.com/SupakornNetsuwan" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.facebook.com/supakornnetsuwan" target="_blank">
+    <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://instagram.com/earth.spkn" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a>  
 </div>  
