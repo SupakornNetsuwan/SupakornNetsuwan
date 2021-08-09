@@ -66,7 +66,7 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SupakornNetsuwan&hide=contribs,prs&show_icons=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupakornNetsuwan&layout=compact&langs_count=10&card_width=445"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=supakornnetsuwan" alt="wakatime"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SupakornNetsuwan" alt="wakatime"/>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=SupakornNetsuwan" alt="streak"/>
 </div>
 
