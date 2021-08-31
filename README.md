@@ -60,7 +60,7 @@
 > Headless UI -> Making modal and form easier! <br/>
 > react-micro-modal -> Making custom popup modal <br/>
 > Popper.js -> Making a cool tooltip! <br/>
-> React Icons -> Looking for icon?
+> React Icons -> Looking for icon? <br/>
 > Time formatting -> moment.js
 
 # Progression 🚀
