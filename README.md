@@ -61,8 +61,8 @@
 > react-micro-modal -> Making custom popup modal <br/>
 > Popper.js -> Making a cool tooltip! <br/>
 > React Icons -> Looking for icon? <br/>
-> Time formatting -> moment.js <br/>
-> UI elements -> Ant Design
+> moment.js -> Time formatting  <br/>
+> Ant Design-> UI elements
 
 # Progression 🚀
 <div align="center">
