@@ -62,7 +62,8 @@
 > Popper.js -> Making a cool tooltip! <br/>
 > React Icons -> Looking for icon? <br/>
 > moment.js -> Time formatting  <br/>
-> Ant Design-> UI elements
+> Ant Design -> UI elements <br/>
+> Atropos -> Making stunning 3D card
 
 # Progression 🚀
 <div align="center">
