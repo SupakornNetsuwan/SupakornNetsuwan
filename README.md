@@ -63,8 +63,8 @@
 > React Icons -> Looking for icon? <br/>
 > moment.js -> Time formatting  <br/>
 > Ant Design -> UI elements <br/>
-> Atropos -> Making stunning 3D hover <br/>
-> VX.js -> Making 3D hover and graph
+> Atropos -> Making stunning 3D hover (currently unusable)<br/>
+> Tilt.js -> Making 3D hover
 
 # Progression 🚀
 <div align="center">
