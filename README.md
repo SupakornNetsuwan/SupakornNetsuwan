@@ -63,7 +63,8 @@
 > React Icons -> Looking for icon? <br/>
 > moment.js -> Time formatting  <br/>
 > Ant Design -> UI elements <br/>
-> Atropos -> Making stunning 3D card
+> Atropos -> Making stunning 3D hover <br/>
+> VX.js -> Making 3D hover and graph
 
 # Progression 🚀
 <div align="center">
