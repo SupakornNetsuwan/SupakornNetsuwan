@@ -61,6 +61,7 @@
 > Headless UI -> Making modal and form easier! <br/>
 > react-micro-modal -> Making custom popup modal <br/>
 > Popper.js -> Making a cool tooltip! <br/>
+> Tippy.js -> another way for making cool tooltip <br/>
 > React Icons -> Looking for icon? <br/>
 > moment.js -> Time formatting  <br/>
 > Ant Design -> UI elements <br/>
