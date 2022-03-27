@@ -57,7 +57,7 @@
 
 ### <p>Favourite libraries 📚</p>
 > Swiper.js -> Making flexible carousel </br>
-> Chart.js -> Making visualition of data easier <br/>
+> Chart.js, Recharts.js -> Making visualition of data easier <br/>
 > Headless UI -> Making modal and form easier! <br/>
 > react-micro-modal -> Making custom popup modal <br/>
 > Popper.js -> Making a cool tooltip! <br/>
