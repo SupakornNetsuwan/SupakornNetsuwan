@@ -68,7 +68,7 @@
 > Atropos -> Making stunning 3D hover (currently unusable)<br/>
 > Tilt.js -> Making 3D hover
 > UI build on top of tailwind -> tailwind-elements.com, daisyui, flowbite<br/>
-> Rich text editor -> RCEditor cool!<br/>
+> Rich text editor -> RCEditor / suneditor cool!<br/>
 
 # Progression 🚀
 <div align="center">
