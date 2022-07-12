@@ -67,7 +67,8 @@
 > Ant Design -> UI elements <br/>
 > Atropos -> Making stunning 3D hover (currently unusable)<br/>
 > Tilt.js -> Making 3D hover
-> UI build on top of tailwind -> tailwind-elements.com, daisyui, flowbite<br/>
+> Tailwind component library -> tailwind-elements.com, daisyui, flowbite<br/>
+> UI framwork -> MUI5
 > Rich text editor -> RCEditor / suneditor cool!<br/>
 
 # Progression 🚀
