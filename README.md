@@ -8,10 +8,10 @@
 
 #### Facts Aboutme🙋‍♂️
 - 💻 I am Interesting of <b>HTML CSS JAVASCRIPT</b> and other web development technologies.
-- 📐 I am also interesting of <b>UX/UI Designing</b>, I was a **#YWC18 (Design)** participant
+- 📐 I am also interesting of <b>UX/UI Designing</b>, I was a **#YWC18 (Design)** participant, **#JWC12** staff
 - 🍰 My birthday is **9/12/2002**
 - 🌍 **Earth** is my nickname
-- 🧑‍ I am now **18 years old**
+- 🧑‍ I am now **20 years old**
 
 #### Education timeline🎓 
 <table>
