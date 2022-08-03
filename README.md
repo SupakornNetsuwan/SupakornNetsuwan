@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-# Welcome you're good looking person!! ☄️
+# Welcome to my profile
   Hi, My name is <a href="https://personalwebsite-mu.vercel.app/">***@SupakornNetsuwan***</a>
   Good to see you here! <br/>
 
@@ -68,8 +68,9 @@
 > Atropos -> Making stunning 3D hover (currently unusable)<br/>
 > Tilt.js -> Making 3D hover
 > Tailwind component library -> tailwind-elements.com, daisyui, flowbite<br/>
-> UI framwork -> MUI5
-> Rich text editor -> RCEditor / suneditor cool!<br/>
+> MUI5 -> UI framework 
+> RCEditor / suneditor cool! -> Rich text editor  <br/>
+> Gitbook -> Document making <br/>
 
 # Progression 🚀
 <div align="center">
