@@ -7,7 +7,7 @@
   Good to see you here! <br/>
 
 #### Facts Aboutme🙋‍♂️
-- 💻 I am Interesting of <b>HTML CSS JAVASCRIPT</b> and other web development technologies.
+- 💻 I am Interesting of <b>Web development</b> focusing on React.
 - 📐 I am also interesting of <b>UX/UI Designing</b>, I was a **#YWC18 (Design)** participant, **#JWC12** staff
 - 🍰 My birthday is **9/12/2002**
 - 🌍 **Earth** is my nickname
@@ -70,7 +70,8 @@
 > Tailwind component library -> tailwind-elements.com, daisyui, flowbite<br/>
 > MUI5 -> UI framework 
 > RCEditor / suneditor cool! -> Rich text editor  <br/>
-> Gitbook -> Document making <br/>
+> Gitbook -> Document making - 1 <br/>
+> Craft -> Document making - 2<br/>
 
 # Progression 🚀
 <div align="center">
