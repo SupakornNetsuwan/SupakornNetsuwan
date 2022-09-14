@@ -64,11 +64,12 @@
 > Tippy.js -> another way for making cool tooltip <br/>
 > React Icons -> Looking for icon? <br/>
 > moment.js -> Time formatting  <br/>
-> Ant Design -> UI elements <br/>
+> Ant Design -> UI elements framework<br/>
 > Atropos -> Making stunning 3D hover (currently unusable)<br/>
 > Tilt.js -> Making 3D hover
 > Tailwind component library -> tailwind-elements.com, daisyui, flowbite<br/>
-> MUI5 -> UI framework 
+> MUI5 -> UI elements framework<br/>
+> Mantine -> UI elements framework<br/>
 > RCEditor / suneditor cool! -> Rich text editor  <br/>
 > Gitbook -> Document making - 1 <br/>
 > Craft -> Document making - 2<br/>
