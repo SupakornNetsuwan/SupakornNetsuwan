@@ -73,6 +73,8 @@
 > RCEditor / suneditor cool! -> Rich text editor  <br/>
 > Gitbook -> Document making - 1 <br/>
 > Craft -> Document making - 2<br/>
+> Strapi -> CMS tool <br/>
+> PocketBase -> GUI Database Management System for side project<br/>
 
 # Progression 🚀
 <div align="center">
