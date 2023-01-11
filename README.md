@@ -75,6 +75,7 @@
 > Craft -> Document making - 2<br/>
 > Strapi -> CMS tool <br/>
 > PocketBase -> GUI Database Management System for side project<br/>
+> Xata.io -> Serverless database comes in with GUI<br/>
 
 # Progression 🚀
 <div align="center">
