@@ -76,7 +76,7 @@
 > Strapi -> CMS tool <br/>
 > PocketBase -> GUI Database Management System for side project<br/>
 > Xata.io -> Serverless database comes in with GUI<br/>
-> Motion canvas -> Create a stunnong animated presentation via website
+> Motion canvas -> Create a stunning animated presentation via website
 # Progression 🚀
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SupakornNetsuwan&hide=contribs,prs&show_icons=true" />
