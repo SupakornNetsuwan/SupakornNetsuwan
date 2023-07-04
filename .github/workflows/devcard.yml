@@ -1,3 +1,4 @@
+name: devcard
 permissions:
   contents: write
 on:
