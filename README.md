@@ -8,7 +8,7 @@
   Hi, My name is <a href="https://personalwebsite-mu.vercel.app/">***@SupakornNetsuwan***</a>
   Good to see you here! <br/>
 
-### Facts Aboutme🙋‍♂️
+### Facts Aboutme🙋‍♂
 - 💻 I am Interesting of <b>Web development</b> focusing on React.
 - 📐 I am also interesting of <b>UX/UI Designing</b>, I was a **#YWC18 (Design)** participant, **#JWC12** staff
 - 🍰 My birthday is **9/12/2002**
