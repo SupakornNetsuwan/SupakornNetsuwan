@@ -5,15 +5,14 @@
 <img style="width:40%;" src="/devcard.svg" alt="Earth's Dev card"/>  
 
 # Welcome to my profile
-  Hi, My name is <a href="https://personalwebsite-mu.vercel.app/">***@SupakornNetsuwan***</a>
+  Hi, My name is [Supakorn Netsuwan](https://personalwebsite-mu.vercel.app)
   Good to see you here! <br/>
 
 ### Facts Aboutme🙋‍♂
 - 💻 I am Interesting of <b>Web development</b> focusing on React.
-- 📐 I am also interesting of <b>UX/UI Designing</b>, I was a **#YWC18 (Design)** participant, **#JWC12** staff
+- 📐 I am also interesting of <b>UX/UI Designing</b>
 - 🍰 My birthday is **9/12/2002**
 - 🌍 **Earth** is my nickname
-- 🧑‍ I am now **20 years old**
 
 ### Education timeline🎓 
 <table>
